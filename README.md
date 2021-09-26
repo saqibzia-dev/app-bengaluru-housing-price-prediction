@@ -1,1 +1,1 @@
-# app-bengaluru-housing-price-prediction
+# Bengaluru House Price Prediction
